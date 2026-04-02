@@ -1,5 +1,11 @@
 # @scalar/openapi-to-markdown
 
+## 0.5.0
+
+### Minor Changes
+
+- [#8638](https://github.com/scalar/scalar/pull/8638): refactor openapi-to-markdown to use workspace-store and json-magic bundling instead of openapi-parser, while preserving the existing public API and adding file/url reference bundling support.
+
 ## 0.4.16
 
 ## 0.4.15
